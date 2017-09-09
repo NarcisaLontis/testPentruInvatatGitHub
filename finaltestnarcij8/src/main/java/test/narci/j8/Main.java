@@ -23,7 +23,7 @@ public class Main {
 
         Triangle t = new Triangle ( 3, 4, 5 );
         System.out.println ( "triangle surface: " + t.getSurface () );
-        System.out.println ( "triangle perimeter: " + t.getPerimeter () );
+        System.out.println ( "narciiii triangle perimeter: " + t.getPerimeter () );
 
 
         ShapeObject[] shapeObjects = new ShapeObject[ 4 ];
